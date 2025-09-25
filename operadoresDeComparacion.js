@@ -11,4 +11,23 @@ console.log(a == b)
 // compara el valor y el tipo de dato
 console.log(a === b);
 
-l
+// operadores distintos
+// compara el valor y lo convierte en un tipo de dato si es necesario
+console.log(`${a} != ${b} -> ${a != b}`);
+
+// operador distinto exactto
+// compara el valor y el tipo de dato
+console.log(`${a} !== ${b} -> ${a !== b}`);
+
+// Operador menor que
+console.log(`${a} <${b} -> ${a < b}`);
+
+// Operador mayor que
+console.log(`${a} > ${b} -> ${a > b}`);
+
+// Operador menor o igual que
+console.log(`${a} <= ${b} -> ${a <= b}`);
+
+// Operador mayor o igual qeu
+console.log(`${a} >= ${b} -> ${a >= b}`)
+
